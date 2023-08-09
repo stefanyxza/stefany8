@@ -1,0 +1,17 @@
+@import url(styles/header.css);
+
+:root{
+    --cor-de-fundo:   #9949B4;
+    --cor-cabecalho:   #FFFFFF;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    margin: 0;
+}
+.font{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+.new{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
